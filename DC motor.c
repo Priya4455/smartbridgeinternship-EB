@@ -2,7 +2,7 @@
  * DCmotor.c
  *
  * Created: 15-05-2019 14:10:33
- * Author : Jaya
+ * Author : PRIYA
  */ 
 
 #ifndef F_CPU
