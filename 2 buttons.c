@@ -2,7 +2,7 @@
  * lbutton.c
  *
  * Created: 10-05-2019 11:52:05
- * Author : SUNDARI
+ * Author : PRIYA
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
